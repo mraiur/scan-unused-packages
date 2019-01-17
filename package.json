@@ -1,0 +1,14 @@
+{
+  "name": "scan-unused-packages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "scripts": {
+    "run": "node ./cli.js"
+  },
+  "author": "Nikolay Ivanov <mraiur@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}
